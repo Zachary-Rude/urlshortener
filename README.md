@@ -7,4 +7,4 @@ Go to https://url-shortener.zacharyrude.repl.co/ in your browser to use it onlin
 
 ## **License**
 
-(GPL v3.0)[LICENSE.txt]
+[GPL v3.0](LICENSE.txt)
